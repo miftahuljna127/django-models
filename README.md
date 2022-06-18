@@ -1,2 +1,2 @@
-# django-models
+# Django Models
 Repository Learn Django Models
