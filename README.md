@@ -5,5 +5,5 @@ Django has provided all template like admin, auth, sessions, and etc as default 
 
 The step: 
 - Make project use command **django-admin startproject name_project**.
-- Make apps example you want make apps the name 'blog' use command **python manage.py startapp blog**.
+- Make apps example you want make apps the name 'blog', use command **python manage.py startapp blog**.
 - 
